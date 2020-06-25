@@ -1,0 +1,4 @@
+{
+    "WebApiUrl": "http://pokeapi.salestock.net/api/v2",
+    "ConfigLoadedFrom": "localConfiguration"
+}
